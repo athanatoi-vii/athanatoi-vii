@@ -1,4 +1,10 @@
 ### Hi there 👋
+I’m currently learning Unreal Engine
+How to reach me:
+Telagram: athanatoi-vii
+Instagram: athanatoi-vii
+Linkdin: 
+
 
 <!--
 **athanatoi-vii/athanatoi-vii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
