@@ -1,9 +1,9 @@
 ### Hi there 👋
-I’m currently learning Unreal Engine
-How to reach me:
-Telagram: athanatoi-vii
-Instagram: athanatoi-vii
-Linkdin: 
+### I’m currently learning Unreal Engine
+### How to reach me:
+### Telagram: athanatoi-vii
+### Instagram: athanatoi-vii
+### Linkdin: 
 
 
 <!--
