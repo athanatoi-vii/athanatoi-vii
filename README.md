@@ -9,7 +9,7 @@
 
 
 ### How to reach me 📫
-**Telagram ID:**
+[**Telagram ID:**](@athanatoi-vii)
 ```
 @athanatoi-vii
 ```
