@@ -13,7 +13,7 @@
 ```
 @athanatoi-vii
 ```
-**Linkdin Name:**
+[**Linkdin Name:**](https://www.linkedin.com/public-profile/settings)
 ```
 iman latifi
 ```
