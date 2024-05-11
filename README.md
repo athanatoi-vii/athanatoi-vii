@@ -9,7 +9,7 @@
 ---
 #### How to reach me 📫
 
-[**Gmail:**]()
+[**Gmail:**](mailto:ivar.vii.7@gmail.com)
 ```
 ivar.vii.7@gmail.com
 ```
@@ -19,7 +19,7 @@ ivar.vii.7@gmail.com
 @athanatoi-vii
 ```
 
-[**Linkdin Name:**](https://www.linkedin.com/public-profile/settings)
+[**Linkdin Name:**](https://www.linkedin.com/in/iman-latifi-558ba725a)
 ```
 iman latifi
 ```
