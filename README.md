@@ -10,16 +10,17 @@
 
 
 ### How to reach me 📫
-Telagram ID:
+**Telagram ID:**
 ```
 @athanatoi-vii
 ```
-Linkdin Name:
+**Linkdin Name:**
 ```
 iman latifi
 ```
 
 test
 
-**test**
---test--
+``🤫``
+* 1.test
+- test
