@@ -1,13 +1,13 @@
 # Hi there 👋
 
-*I’m Unreal Engine developer 🎮
+* I’m Unreal Engine developer 🎮
 
 ## How to reach me
-*Telagram:
+* Telagram:
 ```
 athanatoi-vii
 ```
-*Linkdin:
+* Linkdin:
 ```
 iman latifi
 ```
