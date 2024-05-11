@@ -4,13 +4,13 @@
 
 ## How to reach me
 *Telagram:
-,,,
+```
 athanatoi-vii
-,,,
+```
 *Linkdin:
-'''
+```
 iman latifi
-,,,
+```
 
 
 <!--
