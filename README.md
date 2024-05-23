@@ -2,6 +2,7 @@
 ---
 #### I’m Unreal Engine Developer 🎮
 ---
+- 📚 I’m a student of Qazvin Azad University (40021441054120)
 - 🔭 I’m currently starting a project
 - 🌱 I’m also learning more about unreal engine
 - 💬 ask me about unreal engine
